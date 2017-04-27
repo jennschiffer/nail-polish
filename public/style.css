@@ -1,0 +1,32 @@
+/* style for button.glitch.me documentation page :) */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+main a {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: .5em;
+  padding: 1em;
+  text-decoration: none;
+  color: #fff;
+  font-family: helvetica, arial, sans-serif;
+  line-height: 1.5em;
+}
+
+main a b {
+  display: block;
+}
